@@ -44,21 +44,6 @@ The goal of this project is to understand customer patterns, purchasing trends, 
 	•	Data Visualization
 	•	SQL Querying
 	•	Dashboard Development
-
-⸻
-
-📌 Project Structure
-
-Customer-Behavior-Analysis/
-│── data/
-│   └── customer_shopping_behavior.csv
-│── dashboard/
-│   └── customer_behavior_dashboard.pbix
-│── sql/
-│   └── sql_queries.sql
-│── README.md
-
-
 ⸻
 
 ▶️ How to Use
